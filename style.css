@@ -25,3 +25,11 @@ ul {
 li {
     display: inline;
 }
+
+li.left {
+    float: left;
+}
+
+li.right {
+    float: right;
+}
