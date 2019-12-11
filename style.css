@@ -20,6 +20,7 @@ img#apps {
 
 img#apps:hover {
     opacity: 1;
+    cursor: pointer;
 }
 
 ul {
@@ -45,4 +46,15 @@ li.right {
 a {
     color: #000000;
     opacity: 0.75;
+    text-decoration-line: none;
+    line-height: 28px;
+}
+
+#signin {
+    opacity: 1;
+    background: #4285f4;
+    color: #fff;
+    padding: 8px 12px 8px 12px;
+    font-weight: bold;
+    border-radius: 2px;
 }
