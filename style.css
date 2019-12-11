@@ -58,3 +58,10 @@ a {
     font-weight: bold;
     border-radius: 2px;
 }
+
+.bottom {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #f2f2f2;
+}
