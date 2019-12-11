@@ -15,3 +15,13 @@ img#apps {
 img#apps:hover {
     opacity: 1;
 }
+
+ul {
+    font-family: arial, sans-serif;
+    font-size: 13px;
+    list-style-type: none;
+}
+
+li {
+    display: inline;
+}
