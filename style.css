@@ -1,3 +1,8 @@
+body {
+    min-height: 100%;
+    min-width: 1139px;
+}
+
 #center {
     text-align: center;
 }
