@@ -6,7 +6,12 @@
     padding-top: 201px;
 }
 
-#apps {
+img#apps {
     width: 30px;
     height: 30px;
+    opacity: 0.55;
+}
+
+img#apps:hover {
+    opacity: 1;
 }
