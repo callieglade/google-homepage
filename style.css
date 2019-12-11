@@ -1,6 +1,7 @@
 body {
     min-height: 100%;
     min-width: 1139px;
+    margin: 0px;
 }
 
 #center {
@@ -25,14 +26,20 @@ ul {
     font-family: arial, sans-serif;
     font-size: 13px;
     list-style-type: none;
+    margin: 10px;
+    padding: 0px;
 }
 
 li.left {
     float: left;
+    margin-left: 15px;
+    margin-top: 7px;
 }
 
 li.right {
     float: right;
+    margin-right: 15px;
+    margin-top: 7px;
 }
 
 a {
