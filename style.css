@@ -36,6 +36,7 @@ li.left {
     float: left;
     margin-left: 15px;
     margin-top: 7px;
+    margin-bottom: 15px;
 }
 
 li.right {
