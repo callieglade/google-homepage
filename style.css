@@ -1,6 +1,6 @@
 body {
     min-height: 100%;
-    min-width: 1139px;
+    min-width: 980px;
     margin: 0px;
 }
 
@@ -10,6 +10,7 @@ body {
 
 #logo {
     padding-top: 201px;
+    margin-left: 125px;
 }
 
 img#apps {
